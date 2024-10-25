@@ -1,4 +1,5 @@
-       
+# Undertale Figura Avatar
+rename any item to any one of these with figura installed and avatar selected then rename to see these textures
 
 ![undyne](https://github.com/user-attachments/assets/5969884d-d4ba-46fc-9f3b-060614ad539b)
 
