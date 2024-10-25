@@ -1,4 +1,6 @@
 # Undertale item texture thingys
+chara emmy flowey frisk guster mettaton mettatonex muffet papyrus ralsei sans undyne
+
 ![undyne](https://github.com/user-attachments/assets/5969884d-d4ba-46fc-9f3b-060614ad539b)
 ![sans](https://github.com/user-attachments/assets/6b0618a5-0136-4e35-88cb-be22dce97bf5)
 ![ralsei](https://github.com/user-attachments/assets/b3931561-642c-4662-bc8c-651c7136b5c9)
